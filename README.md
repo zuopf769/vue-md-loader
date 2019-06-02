@@ -26,7 +26,7 @@ module.exports = function (src) {
 
 ### 文件目录结构
 将自定义的markdown-loader放在文件夹rules内与webpack配置文件同级;
-![]()
+![](https://github.com/zuopf769/vue-md-loader/blob/master/src/assets/1559471956311-image.png)
 这个存放路径看个人，是可以修改的，这里说明路径地址，是因为webpack配置中需要引用该路径
 
 
@@ -43,7 +43,7 @@ webpack默认使用的loader路径为node_modules，可以直接在rules配置�
  + 增加module.rules
 按照引用别的第三方loader一样配置
 
-![]()
+![](https://github.com/zuopf769/vue-md-loader/blob/master/src/assets/1559472162440-image.png)
 
 ### 安装需要的包
 
@@ -68,7 +68,7 @@ highlight.js	代码高亮
 ```
 自定义部分需要自己添加 
 
-[自定义]()
+[自定义](https://github.com/zuopf769/vue-md-loader/blob/master/src/style/main.scss)
 
 ```
 :::tip
