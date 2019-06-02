@@ -51,6 +51,7 @@ webpack默认使用的loader路径为node_modules，可以直接在rules配置�
 yarn add -D markdown-it markdown-it-anchor markdown-it-container markdown-it-emoji markdown-it-table-of-contents
 ```
 
+```
 包名称	功能说明
 markdown-it	渲染 markdown 基本语法
 markdown-it-anchor	为各级标题添加锚点
@@ -58,13 +59,16 @@ markdown-it-container	用于创建自定义的块级容器
 markdown-it-emoji	渲染 emoji
 markdown-it-table-of-contents	自动生成目录
 highlight.js	代码高亮
+```
 
 
 ### 样式
 ```
  "github-markdown-css" 、"normalize.css":
 ```
-自定义部分需要自己添加
+自定义部分需要自己添加 
+
+[自定义]()
 
 ```
 :::tip
