@@ -94,3 +94,5 @@ npm run start
 
 + [webpack自定义loader 手写封装loader](https://blog.csdn.net/leeleejoker/article/details/81083428)
 + [自己撸个 vue markdown loader](https://segmentfault.com/a/1190000014666185)
++ [深入浅出 VuePress（一）：如何做到在 Markdown 中使用 Vue 语法](https://www.jianshu.com/p/c7b2966f9d3c)
++ [读 VuePress（三）使用 markdown-it 解析 markdown 代码](https://www.jianshu.com/p/a95c04a68d14)
