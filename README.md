@@ -61,6 +61,9 @@ markdown-it-table-of-contents	自动生成目录
 highlight.js	代码高亮
 ```
 
+### vue-md-loader
+
+[源码](https://github.com/zuopf769/vue-md-loader/blob/master/build/rules/markdown-loader/index.js)
 
 ### 样式
 ```
@@ -76,22 +79,16 @@ highlight.js	代码高亮
 :::
 ```
 
-## Build Setup
+## setup & test
 
 ``` bash
 # install dependencies
 npm install
 
 # serve with hot reload at localhost:8080
-npm run dev
+npm run start
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
-
 
 ## 参考文章
 
